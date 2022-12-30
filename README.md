@@ -1,5 +1,5 @@
 # dice-roll
-A dice roll website.
+A dice roller website.
 
 # About dice-roll
 A simple dice roller website where users can roll 2 dices in the click of a button.
