@@ -7,5 +7,8 @@ A simple dice roller website where users can roll two dices at the click of a bu
 # Tools Used
 This website was made mainly using JavaScript as well as some CSS techniques, basic HTML and Google Fonts.
 
+# Demo
+https://gabrielkiister.github.io/dice-roll/
+
 # Screenshots
 ![Alt text](/screenshots/dicee.png?raw=true)
